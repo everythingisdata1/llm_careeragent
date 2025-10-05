@@ -1,0 +1,11 @@
+/.env
+/.agentenv/
+/.ipynb_checkpoints/
+/1_foundations/.ipynb_checkpoints/
+/build/
+/ml_agents.egg-info/
+/src/ml_agents.egg-info/
+.idea
+.ipynb_checkpoints
+.agentenv
+build

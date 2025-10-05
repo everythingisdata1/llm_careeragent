@@ -1,0 +1,9 @@
+A passionate AWS Java cloud Native Developer wit 11+ Years
+🔭 I’m currently working on Java and AWS Cloud
+
+🌱 I’m currently learning Machine Learing and AI.
+
+💬 Ask me about Cloud Natvie Development with java/Python and AWS Infra
+
+🛠  Tech Stack
+1x Java | Spring Boot | 2x AWS | Docker | Helm Charts| Python | Machine learning | Deep Learning | Tensorflow | AWS CDK
